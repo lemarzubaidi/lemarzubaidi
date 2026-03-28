@@ -1,25 +1,31 @@
-Hi, I'm Lemar Zubaidi 👋
-💻 Computer Engineering Student | Backend Developer in Progress
-Passionate about building real-world software with clean architecture and solid foundations.
-👩🏻‍💼 About Me
-I'm Lemar Zubaidi, a third-year Computer Engineering student at Palestine Technical University - Kadoorie. I have spent the past two years building a strong foundation in programming, focusing on core concepts that matter: OOP, Data Structures, Algorithms, and Database Design.
+<div align="center">
+Lemar Zubaidi
+Computer Engineering Student | Aspiring Backend Developer
+🎓 Palestine Technical University - Kadoorie
+</div>
+
+👩‍💻 About Me
+I'm a third-year Computer Engineering student with two years of focused study on programming fundamentals. I enjoy building real-world systems with clean architecture and solid code design.
+
 ⚙️ Tech Stack
+Languages: C++ • C# • Java
+Concepts: OOP • Data Structures • Algorithms • Database Design
+Tools: Git • GitHub
 
-Languages: C++, C#, Java
-Concepts: OOP, Data Structures, Algorithms, Database Design
-Tools: Git, GitHub
-
-🚀 Featured Projects
-🏦 Banking System (C++)
-A full-featured banking system with layered architecture, login security, role-based access control, transaction management, and file logging — built entirely in C++.
-✂️ Rock Paper Scissors (C++)
-An interactive console game with score tracking and clean game logic.
-📦 Custom Libraries (C++)
+🚀 Projects
+🏦 Banking System
+Full-featured banking system with layered architecture, login security, role-based access control, transaction management, and file logging — built in C++.
+✂️ Rock Paper Scissors
+Interactive console game with score tracking and clean game logic.
+📦 Custom Libraries
 Reusable C++ libraries demonstrating modular and maintainable code design.
+
 🎯 Currently
 
 🌱 Learning Backend Development with C# and ASP.NET
 🔭 Applied to Google Summer of Code 2026 with Jenkins
 
 
+<div align="center">
 "Strong foundations lead to great software."
+</div>
