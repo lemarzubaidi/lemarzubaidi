@@ -23,6 +23,8 @@ I'm a third-year Computer Engineering student. I started my journey with web dev
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white)
+![Oracle SQL](https://img.shields.io/badge/Oracle%20SQL-F80000?style=flat&logo=oracle&logoColor=white)
 
 <h4>Familiar with: </h4> 
 
@@ -35,7 +37,6 @@ I'm a third-year Computer Engineering student. I started my journey with web dev
 ![Data Structures](https://img.shields.io/badge/Data%20Structures-grey?style=flat)
 ![Algorithms](https://img.shields.io/badge/Algorithms-grey?style=flat)
 ![Database Design](https://img.shields.io/badge/Database%20Design-grey?style=flat)
-![Oracle SQL](https://img.shields.io/badge/Oracle%20SQL-F80000?style=flat&logo=oracle&logoColor=white)
 ![Command Line](https://img.shields.io/badge/Command%20Line-black?style=flat&logo=windowsterminal&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
