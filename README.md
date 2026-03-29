@@ -1,4 +1,3 @@
-
 <h1 align="center">Lemar Zubaidi</h1>
 
 <h3 align="center">💻 Computer Engineering Student | Aspiring Backend Developer</h3>
@@ -26,7 +25,6 @@ I'm a third-year Computer Engineering student. I started my journey with web dev
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 
 <h4>Concepts & Tools</h4>
 
@@ -34,6 +32,8 @@ I'm a third-year Computer Engineering student. I started my journey with web dev
 ![Data Structures](https://img.shields.io/badge/Data%20Structures-grey?style=flat)
 ![Algorithms](https://img.shields.io/badge/Algorithms-grey?style=flat)
 ![Database Design](https://img.shields.io/badge/Database%20Design-grey?style=flat)
+![Oracle SQL](https://img.shields.io/badge/Oracle%20SQL-F80000?style=flat&logo=oracle&logoColor=white)
+![Command Line](https://img.shields.io/badge/Command%20Line-black?style=flat&logo=windowsterminal&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 
