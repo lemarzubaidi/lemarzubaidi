@@ -64,7 +64,6 @@ Reusable C++ libraries demonstrating modular and maintainable code design.
 <h2>🎯 Currently</h2>
 
 - 🌱 Learning Backend Development with C# and ASP.NET
-- 🔭 Applied to **Google Summer of Code 2026** with Jenkins
 
 ---
 
