@@ -71,4 +71,4 @@ Reusable C++ libraries demonstrating modular and maintainable code design.
 
 ---
 
-<p align="center"><i>"Strong foundations - the one thing AI cannot replace."</i></p> pg,m?
+<p align="center"><i>"Strong foundations - the one thing AI cannot replace."</i></p> 
