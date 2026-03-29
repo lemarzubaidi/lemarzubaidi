@@ -26,8 +26,8 @@ I'm a third-year Computer Engineering student. I started my journey with web dev
 
 <h4>Familiar with: </h4> 
 
-[HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white)
-[CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white)
 
 <h4>Concepts & Tools</h4>
 
