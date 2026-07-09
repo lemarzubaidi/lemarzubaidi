@@ -1,6 +1,6 @@
 <h1 align="center">Lemar Zubaidi</h1>
 
-<h3 align="center">💻 Computer Engineering Student | Aspiring Backend Developer</h3>
+<h3 align="center">💻 Computer Engineering Student |  Backend Developer</h3>
 
 <p align="center">
 🎓 Palestine Technical University - Kadoorie &nbsp;|&nbsp;
