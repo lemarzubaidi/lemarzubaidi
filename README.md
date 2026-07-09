@@ -4,8 +4,8 @@
 
 <p align="center">
 🎓 Palestine Technical University - Kadoorie &nbsp;|&nbsp;
-📧 <a href="mailto:lemarzubaide9@gmail.com">lemarzubaide9@gmail.com</a> &nbsp;|&nbsp;
-🐙 <a href="https://github.com/lemarzubaidi">github.com/lemarzubaidi</a>
+ <a href="mailto:lemarzubaide9@gmail.com">lemarzubaide9@gmail.com</a> &nbsp;|&nbsp;
+
 </p>
 
 ---
