@@ -55,9 +55,6 @@ A full-featured banking system built with clean architecture principles.
 
 An interactive console game with score tracking and clean game logic.
 
-<h3>📦 Custom Libraries (C++)</h3>
-
-Reusable C++ libraries demonstrating modular and maintainable code design.
 
 ---
 
