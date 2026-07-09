@@ -12,7 +12,7 @@
 
 <h2>👩🏻‍💼 About Me</h2>
 
-I'm a third-year Computer Engineering student. I started my journey with web development and frontend, but it was backend development that truly captured my interest — the logic, the architecture, and the way everything connects behind the scenes. Since then, I've been focused on building real-world systems with clean design and solid foundations.
+ Computer Engineering student. backend developer — the logic, the architecture, and the way everything connects behind the scenes.  I've been focused on building real-world systems with clean design and solid foundations.
 
 ---
 
