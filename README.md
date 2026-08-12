@@ -58,10 +58,5 @@ An interactive console game with score tracking and clean game logic.
 
 ---
 
-<h2>🎯 Currently</h2>
-
-- 🌱 Learning Backend Development with C# and ASP.NET
-
----
 
 <p align="center"><i>"Strong foundations - the one thing AI cannot replace."</i></p> 
