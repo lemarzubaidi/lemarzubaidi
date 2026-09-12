@@ -59,4 +59,4 @@ An interactive console game with score tracking and clean game logic.
 ---
 
 
-<p align="center"><i>"Strong foundations - the one thing AI cannot replace."</i></p> 
+<p align="center"><i>"BYE"</i></p> 
