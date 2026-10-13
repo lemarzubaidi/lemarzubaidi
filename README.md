@@ -1,4 +1,4 @@
-<h1 align="center">Lemar Zubaidi</h1>
+<h1 align="center">HI, Lemar Zubaidi</h1>
 
 <h3 align="center">💻 Computer Engineering Student</h3>
 
