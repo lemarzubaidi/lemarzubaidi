@@ -1,6 +1,6 @@
 <h1 align="center">Lemar Zubaidi</h1>
 
-<h3 align="center">💻 Computer Engineering Student |  Backend Developer</h3>
+<h3 align="center">💻 Computer Engineering Student</h3>
 
 <p align="center">
  <a href="mailto:lemarzubaide9@gmail.com">lemarzubaide9@gmail.com</a> 
@@ -11,7 +11,7 @@
 
 <h2>👩🏻‍💼 About Me</h2>
 
- Computer Engineering student. backend developer — the logic, the architecture, and the way everything connects behind the scenes.  I've been focused on building real-world systems with clean design and solid foundations.
+ Computer Engineering student. Aspiring backend developer — the logic, the architecture, and the way everything connects behind the scenes.  I've been focused on building real-world systems with clean design and solid foundations.
 
 ---
 
