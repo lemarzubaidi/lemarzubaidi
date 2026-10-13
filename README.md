@@ -48,11 +48,7 @@ A full-featured banking system built with clean architecture principles.
 - 📋 File logging system to track all user activity
 - 🎭 Separated UI from business logic
 - 🔑 Role-based access control using Bitwise operations
-- 🔧 Designed for extensibility
-
-<h3>✂️ Rock Paper Scissors (C++)</h3>
-
-An interactive console game with score tracking and clean game logic.
+- 🔧 Designed for extensibility.
 
 
 ---
