@@ -3,7 +3,6 @@
 <h3 align="center">💻 Computer Engineering Student |  Backend Developer</h3>
 
 <p align="center">
-🎓 Palestine Technical University - Kadoorie &nbsp;|&nbsp;
  <a href="mailto:lemarzubaide9@gmail.com">lemarzubaide9@gmail.com</a> 
 
 </p>
