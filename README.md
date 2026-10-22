@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <a href="mailto:lemarzubaide9@gmail.com"><img src="https://img.shields.io/badge/Email-lemarzubaide9%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white" alt="Email"></a>
+  📧 <a href="mailto:lemarzubaide9@gmail.com">lemarzubaide9@gmail.com</a>
 </p>
 
 ---
@@ -73,12 +73,6 @@ A classification model that predicts heart disease from patient clinical data.
 
 #### 🧱 [SOLID Principles](https://github.com/lemarzubaidi/SOLID-Principles) — C#
 Practical examples of the five SOLID principles and the Dependency Injection pattern, each showing a violating design next to the corrected one.
-
----
-
-### 🌱 Currently Learning
-
-Design Patterns · REST APIs · TypeScript · Docker
 
 ---
 
