@@ -1,57 +1,68 @@
-<h1 align="center"> Lemar Zubaidi</h1>
-
-<h3 align="center">💻 Computer Engineering Student</h3>
+<h1 align="center">Lemar Zubaidi</h1>
 
 <p align="center">
- <a href="mailto:lemarzubaide9@gmail.com">lemarzubaide9@gmail.com</a> 
+  <b>Computer Engineering Student · Aspiring Backend Developer</b><br>
+  Palestine Technical University – Kadoorie (PTUK)
+</p>
 
+<p align="center">
+  <a href="mailto:lemarzubaide9@gmail.com"><img src="https://img.shields.io/badge/Email-lemarzubaide9%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white" alt="Email"></a>
 </p>
 
 ---
 
-<h2>👩🏻‍💼 About Me</h2>
+### 👩🏻‍💻 About Me
 
- Computer Engineering student. Aspiring backend developer — the logic, the architecture, and the way everything connects behind the scenes.  I've been focused on building real-world systems with clean design and solid foundations.
+I'm a Computer Engineering student interested in backend development — the logic, the architecture, and how everything connects behind the scenes.
+I care about writing clean, well-structured code built on solid design foundations.
 
 ---
 
-<h2>⚙️ Tech Stack</h2>
+### ⚙️ Tech Stack
 
-<h4>Languages</h4>
+**Languages**
 
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-512BD4?style=flat&logo=dotnet&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+
+**Databases**
+
 ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white)
 ![Oracle SQL](https://img.shields.io/badge/Oracle%20SQL-F80000?style=flat&logo=oracle&logoColor=white)
+![ADO.NET](https://img.shields.io/badge/ADO.NET-512BD4?style=flat&logo=dotnet&logoColor=white)
 
+**Concepts & Tools**
 
-<h4>Concepts & Tools</h4>
-
-![OOP](https://img.shields.io/badge/OOP-grey?style=flat)
-![Data Structures](https://img.shields.io/badge/Data%20Structures-grey?style=flat)
-![Algorithms](https://img.shields.io/badge/Algorithms-grey?style=flat)
-![Database Design](https://img.shields.io/badge/Database%20Design-grey?style=flat)
-![Command Line](https://img.shields.io/badge/Command%20Line-black?style=flat&logo=windowsterminal&logoColor=white)
+![OOP](https://img.shields.io/badge/OOP-555555?style=flat)
+![SOLID](https://img.shields.io/badge/SOLID-555555?style=flat)
+![Data Structures](https://img.shields.io/badge/Data%20Structures-555555?style=flat)
+![Algorithms](https://img.shields.io/badge/Algorithms-555555?style=flat)
+![Database Design](https://img.shields.io/badge/Database%20Design-555555?style=flat)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 
 ---
 
-<h2>🚀 Projects</h2>
+### 🚀 Featured Projects
 
-<h3>🏦 Banking System (C++)</h3>
+#### 🏦 Banking System — C++
+A console banking system built with clean architecture principles.
+- User authentication with account lockout after failed attempts
+- File-based logging of all user activity
+- Role-based access control using bitwise permissions
+- UI separated from business logic, designed for extensibility
 
-A full-featured banking system built with clean architecture principles.
-
-- 🔐 User authentication with account lockout after failed attempts
-- 📋 File logging system to track all user activity
-- 🎭 Separated UI from business logic
-- 🔑 Role-based access control using Bitwise operations
-- 🔧 Designed for extensibility.
-
+#### 🧱 [SOLID Principles](https://github.com/lemarzubaidi/SOLID-Principles) — C#
+Practical examples of the five SOLID principles and the Dependency Injection pattern, each showing a violating design next to the corrected one.
 
 ---
 
+### 🌱 Currently Learning
 
-<p align="center"><i>"BYE"</i></p> 
+Design Patterns · REST APIs · TypeScript · Docker
+
+---
+
+<p align="center"><i>Always building, always learning.</i></p>
